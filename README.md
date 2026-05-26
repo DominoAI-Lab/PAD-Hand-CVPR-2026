@@ -139,4 +139,13 @@ This repository is based on
 
 ## Citation
 
-Coming soon.
+```bibtex
+@InProceedings{Ismayilzada_2026_CVPR,
+    author    = {Ismayilzada, Elkhan and Zhang, Yufei and Cui, Zijun},
+    title     = {PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {28358-28368}
+}
+```
