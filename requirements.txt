@@ -1,0 +1,11 @@
+torch==1.13.1
+torchvision==0.14.1
+numpy==1.21.6
+opencv-python==4.13.0.92
+openmesh==1.2.1
+pyrender==0.1.45
+scikit-learn==1.0.2
+smplx==0.1.28
+torch-scatter==2.1.1
+trimesh==4.4.1
+tqdm==4.67.1
