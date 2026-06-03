@@ -43,7 +43,7 @@ def run_wilor_inference(video_path):
     tmp.close()
     npz_path = tmp.name
     script   = os.path.join(_DEMO_DIR, 'wilor_inference.py')
-    cmd = ['conda', 'run', '-n', 'hamer', 'python', script,
+    cmd = ['conda', 'run', '-n', 'wilor', 'python', script,
            '--video', video_path, '--output', npz_path]
     print('Running WiLoR inference in wilor env...')
     ret = subprocess.call(cmd)
